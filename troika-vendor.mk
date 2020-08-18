@@ -18,6 +18,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/motorola/troika
 
 PRODUCT_COPY_FILES += \
+    vendor/motorola/troika/proprietary/vendor/etc/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/sec_s3nrn81_rfreg.bin \
     vendor/motorola/troika/proprietary/vendor/firmware/fimc_is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib.bin \
     vendor/motorola/troika/proprietary/vendor/firmware/fimc_is_rta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_rta.bin \
     vendor/motorola/troika/proprietary/vendor/firmware/himax-hix83112a-hx83112a-0C00-208-troika.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/himax-hix83112a-hx83112a-0C00-208-troika.bin \
