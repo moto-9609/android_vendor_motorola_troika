@@ -39,8 +39,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/troika/proprietary/vendor/lib/hw/camera.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos9610.so \
     vendor/motorola/troika/proprietary/vendor/lib/hw/sensors.troika_sprout.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.troika_sprout.so \
     vendor/motorola/troika/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
+    vendor/motorola/troika/proprietary/vendor/lib/libril_sitril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libril_sitril.so \
+    vendor/motorola/troika/proprietary/vendor/lib/libsitril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsitril.so \
     vendor/motorola/troika/proprietary/vendor/lib/sensors.chub.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.chub.so \
     vendor/motorola/troika/proprietary/vendor/lib64/hw/camera.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos9610.so \
     vendor/motorola/troika/proprietary/vendor/lib64/hw/sensors.troika_sprout.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.troika_sprout.so \
     vendor/motorola/troika/proprietary/vendor/lib64/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera3.so \
+    vendor/motorola/troika/proprietary/vendor/lib64/libril_sitril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril_sitril.so \
+    vendor/motorola/troika/proprietary/vendor/lib64/libsitril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsitril.so \
     vendor/motorola/troika/proprietary/vendor/lib64/sensors.chub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.chub.so
